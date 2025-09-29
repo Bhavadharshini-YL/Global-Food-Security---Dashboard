@@ -25,4 +25,38 @@ Food security is one of the most critical challenges facing the world today. Whi
 
 ## Dashboard Interaction
 - <a href="https://github.com/Bhavadharshini-YL/Global-Food-Security---Dashboard/blob/main/Screenshot%202025-09-29%20113748.png">Dashboard_1</a>
-- <a href="https://github.com/Bhavadharshini-YL/Global-Food-Security---Dashboard/blob/main/Screenshot%202025-09-29%20113806.png">Dashboard_1</a>
+- <a href="https://github.com/Bhavadharshini-YL/Global-Food-Security---Dashboard/blob/main/Screenshot%202025-09-29%20113806.png">Dashboard_2</a>
+
+## Key Contributions
+
+- Designed an interactive dashboard connecting global food waste with hunger index to highlight critical social and economic issues.
+- Cleaned, standardized, and merged four datasets (Food Waste, Hunger Index, Economic Loss, Categories) to enable country-wise and category-wise analysis.
+- Built impactful visualizations: KPIs, distribution charts, economic impact donut, top contributors, waste-to-hunger scatter, and trend analysis.
+- Delivered actionable insights showing how reducing waste can significantly reduce hunger and economic losses worldwide.
+
+## Process
+Data Collection & Cleaning
+
+Combined multiple datasets (waste per capita, categories, hunger index).
+
+Standardized country names and aligned years for comparability.
+
+Data Integration
+
+Merged hunger data with food waste indicators.
+
+Calculated derived fields: per capita waste, economic loss, potential meals saved.
+
+Dashboard Design
+
+Created KPIs for waste, economic loss, hunger index, and undernourishment.
+
+Used maps, scatter plots, bar charts, treemaps, and time series to show different perspectives.
+
+Added storytelling flow: Problem → Scale → Impact → Solution.
+
+Validation & Insights
+
+Cross-verified trends with global hunger reports to ensure credibility.
+
+Highlighted contrasts between developed vs developing countries.
