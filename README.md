@@ -25,4 +25,4 @@ Food security is one of the most critical challenges facing the world today. Whi
 
 ## Dashboard Interaction
 - <a href="https://github.com/Bhavadharshini-YL/Global-Food-Security---Dashboard/blob/main/Screenshot%202025-09-29%20113748.png">Dashboard_1</a>
-- <a href=" ">Dashboard_1</a>
+- <a href="https://github.com/Bhavadharshini-YL/Global-Food-Security---Dashboard/blob/main/Screenshot%202025-09-29%20113806.png">Dashboard_1</a>
