@@ -35,28 +35,19 @@ Food security is one of the most critical challenges facing the world today. Whi
 - Delivered actionable insights showing how reducing waste can significantly reduce hunger and economic losses worldwide.
 
 ## Process
-Data Collection & Cleaning
-
+- Data Collection & Cleaning
 Combined multiple datasets (waste per capita, categories, hunger index).
-
 Standardized country names and aligned years for comparability.
 
-Data Integration
-
+- Data Integration
 Merged hunger data with food waste indicators.
-
 Calculated derived fields: per capita waste, economic loss, potential meals saved.
 
-Dashboard Design
-
+- Dashboard Design
 Created KPIs for waste, economic loss, hunger index, and undernourishment.
-
 Used maps, scatter plots, bar charts, treemaps, and time series to show different perspectives.
-
 Added storytelling flow: Problem → Scale → Impact → Solution.
 
-Validation & Insights
-
+- Validation & Insights
 Cross-verified trends with global hunger reports to ensure credibility.
-
 Highlighted contrasts between developed vs developing countries.
