@@ -56,7 +56,7 @@ Highlighted contrasts between developed vs developing countries.
 
 <img width="1121" height="649" alt="Screenshot 2025-09-29 113748" src="https://github.com/user-attachments/assets/86fed679-6809-49bc-bb41-f55b68444cd1" />
 <img width="1122" height="670" alt="Screenshot 2025-09-29 113806" src="https://github.com/user-attachments/assets/abdb9df0-c5ff-4412-b149-d45c5e37e686" />
-## Insights
+##Insights
 
 - Per capita food waste is extremely high (272.59 kg/year), especially in high-income countries.
 - Global economic loss due to food waste exceeds 6.26 million (dataset-based) annually.
